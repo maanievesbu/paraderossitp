@@ -16,11 +16,13 @@ Este trabajo tiene la finalidad de explorar y explotar estos nuevos datos propor
 - ¿Cuantas rutas paran en cada paradero de la ciudad?
 - ¿Como están distribuidos los tipos de paraderos?
 - Informes presentados por la Contraloría de Bogotá la implementación del SITP va en 58%, por lo cual, es necesario continuar con el uso de las rutas tradicionales de transporte público de manera **provisional**. ¿Cómo se refleja en la ciudad la interacción entre la oferta de transporte público zonal y provisional?
- - La población de Bogotá se reparte desigualmente a lo largo de la ciudad. ¿Las zonas más pobladas de la ciudad tienen mayor o menor oferta de rutas? ¿A qué responden estos patrones?
+ - La población de Bogotá se reparte desigualmente en Bogotá, ¿Las zonas más pobladas tienen mayor o menor oferta de rutas? ¿A qué responden estos patrones?
  - ¿Cuáles son las zonas con mayor y menor oferta de transporte dados los tipos de paraderos?
-- El análisis de indicadores demográficos en Bogotá suele realizarse tomando a las localidades como referencia. No obstante, estas son heterogéneas y tomar el valor promedio de un indicador podría no dar cuenta de la realidad. Por lo tanto, ¿cómo se distribuyen los tipos de paraderos en Bogotá tomando como referencia unidades más pequeñas (Unidades de Planeamiento Zonal)?
+- El análisis de indicadores demográficos en Bogotá suele realizarse tomando a las localidades como referencia. No obstante, estas son heterogéneas y tomar el valor promedio de un indicador podría no dar cuenta de la realidad. Por lo tanto, ¿cómo se distribuyen estos resultados tomando unidades más pequeñas (Unidades de Planeamiento Zonal) como unidad de referencia?
 
 Información sobre los paraderos del SITP: [https://www.sitp.gov.co/publicaciones/40572/paraderos_del_sitp/](https://www.sitp.gov.co/publicaciones/40572/paraderos_del_sitp/).
+
+Presentación de este proyecto en pdf: [https://github.com/maanievesbu/paraderossitp/blob/master/Presentaci%C3%B3n/Presentaci%C3%B3n.pdf](https://github.com/maanievesbu/paraderossitp/blob/master/Presentaci%C3%B3n/Presentaci%C3%B3n.pdf)
 
 ## Methods used
 
@@ -115,10 +117,10 @@ El archivo .qgz se encuentra [aquí](https://github.com/maanievesbu/MCPP_mario.n
 
 ## Resultados
 
--   7417 paraderos del SITP en Bogotá (descontando repetidos e inconsistencias):
+-   7417 paraderos del SITP en Bogotá obtenidos en el ejercicio de Webscraping a la página de TransMilenio (descontando 763 paraderos repetidos para un total de 8180 iniciales):
 
--   6772 (91,3%) paraderos en común entre las bases cruzadas.
--   645 (8,69%) cenefas no se encuentran actualizadas en la página de TransMilenio.
+- - 6772 (91,3%) paraderos en común entre las bases cruzadas.
+- - 645 (8,69%) cenefas no se encuentran actualizadas en la página de TransMilenio.
 
 Según tipo de paradero:
   
@@ -136,6 +138,8 @@ Según tipo de paradero:
 
 ### Por desagregación geográfica
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3c4gKPmB6Dv5xt1UgzlgO6xZbIZeNhhXT3E7bPQMug7KFc8ZU7embufAALEIqwde6C6AwCZb3JC4yv6kZ_8R_ALuikC1JE_vJpO28RJAB6nyhmETCZrnI8I_49lUHJp01f3t2NRqn4e2ulHh4Ec0Iv7cA=w939-h24-no?authuser=0)
+
 ![Localidades](https://lh3.googleusercontent.com/pw/ACtC-3ewyHNeKm0UcN01NC3Eivb0Tgt1AQ6ybTexJhuP_CB0p0UOoj-o47TVeSsFwg0BzsX9PDCE5PbL9O7795ZcuBi5Rmnj2W4lI-84Hd5hTnBdART_MuLSgwN0YSJ5xTnR7qf4GKcbNDpVp0PVCHhp0fNBmQ=w954-h471-no?authuser=0)
 
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3cZCy7FqRw40Y7x-u-GJ6m4vxmb_1rMlxqzLS4kOqdC6QiohvkX5vpLEKQ-AJSzFZe52pqtNEZATuHkmn63ZEwlKGDoO0i3d4QhRpgcu91mNeYxVMmCQ9QYnxSP8cB3bIkK_G98Uq4XcdsGTui7aSqp_g=w979-h511-no?authuser=0)
@@ -146,7 +150,7 @@ Según tipo de paradero:
 
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3d47a8zCMuS3AwHJa9ikYv5K9PyEUkTUdcSacKvVLObmRiKGhLhNIcJQBqXAvijJf71AmVrWCEvz-kmXtGY9YsfR7lVuOYem29RouotLwJPk9-ZoCLXaFnu2xJytsa7IgGiUHHCI1NWior1lASrGY8VzQ=w955-h462-no?authuser=0)
 
-![enter image description here](https://lh3.googleusercontent.com/N-bm1lGNRrVzx-IIDT75wlSG36QH7-oTG1wMRziRBauNtY3vi-1J5N2rqFqWvobkM6qniIon06CwsyrWdv9F2_m8_68smNE-S0zfXCiEzJDgvlKJdB4J2lyX0ZjU0IESHZI2-Zy5950qbZqRKxXeRViZbOXLkP7zdmOTAAmirJVvWvVpzmXfXzDAVYXR9SsF7r1g0QGYL82cig1cI84fkwaQmCDjIDP44-k5kgCe1a3n10qZTPjbLNSa7Su30oHarBsvgJ1eXdNHqWDjJ9yj50GZFHnnvjQ4vz-aQSU9laIlQp46d5EToK8uaKvWQk6k_9AYkOF6MMFItzcxzpkFuhv45uJFXj7yPYOjvAG0v6IF0cgdRGmCXPtfYhq6UCDxkmKpqvq2yHJZRMihivHrlk0l_PGHfsq8UtWqa1Z7eEDBWpCvkGnpaoGoPDGR5frRQIu9BX34Up1W08puxW4mOQu8wvc1v757wXEl5iILnbWKIghq0nRFUJiJvhAEeprDpgZQr2UOzAnEdYAcsvTglEGti5CE2P-ML-JwHY2fpTUn2gtHbRuS4tUl_ctPUZSIEHH0zjmU-OQyTTwDKxKrUPXwqy_pcH_LsPrF2taxSAsar4Q9CyGF8GrDw4ynTSS0jQXgsF6Lys0-yDO7gpBqVN9amBR0n-b5x5xIx8MUd99weT84rjWoBOr8lN_AyQ4=w955-h462-no?authuser=0)
+![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3dbkn3DkZU_i8oV-PQdOapXqsyBNWliKTqEZ5R3R7OhiQZUmYIiH-Q0Fr14DQYYqJ9GnVdxcgf7VOOvcbT7hpxTNrq6TPYYR6tVI-RoNSVebBcpqlR8E1BLtJo6DTkgZZ5vL1mFPcjPscMpCTwQYMzHFQ=w955-h462-no?authuser=0)
 
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3f6aL0VjXjMO-eHJT9ISCvL61lofh22YRjd2-655WAjxTm1I80951gbW-83XdEFbRtpiZ1m6dSmN2pWGySvq0CoIPgQVUeKRpC5pTbh2DBf8HIGq8wchEZvzOrKnIIJviOtbUyPfNhzJCbUJWhVMGTVfA=w953-h461-no?authuser=0)
 
@@ -163,3 +167,8 @@ Las estadísticas para cada nivel se muestran en los siguientes enlaces:
 - [Localidades](https://github.com/maanievesbu/MCPP_mario.nieves/blob/master/Proyecto%20final/R/Output/Localidades%20-%20Descriptives.csv).
 - [UPZ](https://github.com/maanievesbu/MCPP_mario.nieves/blob/master/Proyecto%20final/R/Output/UPZ%20-%20Descriptives.csv).
 - [Zonas SITP](https://github.com/maanievesbu/MCPP_mario.nieves/blob/master/Proyecto%20final/R/Output/Zonas%20-%20Descriptives.csv).
+
+### Agenda a futuro
+- Este proyecto tuvo como propósito evaluar y clasificar los paraderos. Sin embargo, las rutas que recorren la ciudad y paran en ellos son un elemento esencial. Por lo tanto, evaluar como podría incidir la implementación de más rutas (o falta de ellas) en ciertos sectores críticos puede conducir a la producción de diferentes análisis de sensibilidad sobre los indicadores de los tipos de paradero expuestos en este ejercicio. 
+- Tomar la estratificación socioeconómica como puntos de referencia.
+- Tomar unidades de observación más pequeñas que las UPZ (e.g. códigos postales o barrios).
