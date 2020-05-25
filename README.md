@@ -119,8 +119,8 @@ El archivo .qgz se encuentra [aquí](https://github.com/maanievesbu/MCPP_mario.n
 
 -   7417 paraderos del SITP en Bogotá obtenidos en el ejercicio de Webscraping a la página de TransMilenio (descontando 763 paraderos repetidos para un total de 8180 iniciales):
 
-    ○   6772 (91,3%) paraderos en común entre las bases cruzadas.
-    ○   645 (8,69%) cenefas no se encuentran actualizadas en la página de TransMilenio.
+- - 6772 (91,3%) paraderos en común entre las bases cruzadas.
+- - 645 (8,69%) cenefas no se encuentran actualizadas en la página de TransMilenio.
 
 Según tipo de paradero:
   
