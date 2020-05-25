@@ -16,9 +16,9 @@ Este trabajo tiene la finalidad de explorar y explotar estos nuevos datos propor
 - ¿Cuantas rutas paran en cada paradero de la ciudad?
 - ¿Como están distribuidos los tipos de paraderos?
 - Informes presentados por la Contraloría de Bogotá la implementación del SITP va en 58%, por lo cual, es necesario continuar con el uso de las rutas tradicionales de transporte público de manera **provisional**. ¿Cómo se refleja en la ciudad la interacción entre la oferta de transporte público zonal y provisional?
- - La población de Bogotá se reparte desigualmente a lo largo de la ciudad. ¿Las zonas más pobladas de la ciudad tienen mayor o menor oferta de rutas? ¿A qué responden estos patrones?
+ - La población de Bogotá se reparte desigualmente en Bogotá, ¿Las zonas más pobladas tienen mayor o menor oferta de rutas? ¿A qué responden estos patrones?
  - ¿Cuáles son las zonas con mayor y menor oferta de transporte dados los tipos de paraderos?
-- El análisis de indicadores demográficos en Bogotá suele realizarse tomando a las localidades como referencia. No obstante, estas son heterogéneas y tomar el valor promedio de un indicador podría no dar cuenta de la realidad. Por lo tanto, ¿cómo se distribuyen los tipos de paraderos en Bogotá tomando como referencia unidades más pequeñas (Unidades de Planeamiento Zonal)?
+- El análisis de indicadores demográficos en Bogotá suele realizarse tomando a las localidades como referencia. No obstante, estas son heterogéneas y tomar el valor promedio de un indicador podría no dar cuenta de la realidad. Por lo tanto, ¿cómo se distribuyen estos resultados tomando unidades más pequeñas (Unidades de Planeamiento Zonal) como unidad de referencia?
 
 Información sobre los paraderos del SITP: [https://www.sitp.gov.co/publicaciones/40572/paraderos_del_sitp/](https://www.sitp.gov.co/publicaciones/40572/paraderos_del_sitp/).
 
