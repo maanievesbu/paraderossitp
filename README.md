@@ -22,7 +22,7 @@ Este trabajo tiene la finalidad de explorar y explotar estos nuevos datos propor
 
 Información sobre los paraderos del SITP: [https://www.sitp.gov.co/publicaciones/40572/paraderos_del_sitp/](https://www.sitp.gov.co/publicaciones/40572/paraderos_del_sitp/).
 
-Para revisar la presentación de este proyecto en pdf: [enter link description here](https://github.com/maanievesbu/paraderossitp/blob/master/Presentaci%C3%B3n/Presentaci%C3%B3n.pdf)
+Presentación de este proyecto en pdf: [https://github.com/maanievesbu/paraderossitp/blob/master/Presentaci%C3%B3n/Presentaci%C3%B3n.pdf](https://github.com/maanievesbu/paraderossitp/blob/master/Presentaci%C3%B3n/Presentaci%C3%B3n.pdf)
 
 ## Methods used
 
