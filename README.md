@@ -22,6 +22,8 @@ Este trabajo tiene la finalidad de explorar y explotar estos nuevos datos propor
 
 Información sobre los paraderos del SITP: [https://www.sitp.gov.co/publicaciones/40572/paraderos_del_sitp/](https://www.sitp.gov.co/publicaciones/40572/paraderos_del_sitp/).
 
+Para revisar la presentación de este proyecto en pdf: [enter link description here](https://github.com/maanievesbu/paraderossitp/tree/master/Presentaci%C3%B3n)
+
 ## Methods used
 
 ### Scraping
@@ -115,10 +117,10 @@ El archivo .qgz se encuentra [aquí](https://github.com/maanievesbu/MCPP_mario.n
 
 ## Resultados
 
--   7417 paraderos del SITP en Bogotá (descontando repetidos e inconsistencias):
+-   7417 paraderos del SITP en Bogotá obtenidos en el ejercicio de Webscraping a la página de TransMilenio (descontando 763 paraderos repetidos para un total de 8180 iniciales):
 
--   6772 (91,3%) paraderos en común entre las bases cruzadas.
--   645 (8,69%) cenefas no se encuentran actualizadas en la página de TransMilenio.
+    ○   6772 (91,3%) paraderos en común entre las bases cruzadas.
+    ○   645 (8,69%) cenefas no se encuentran actualizadas en la página de TransMilenio.
 
 Según tipo de paradero:
   
@@ -146,7 +148,7 @@ Según tipo de paradero:
 
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3d47a8zCMuS3AwHJa9ikYv5K9PyEUkTUdcSacKvVLObmRiKGhLhNIcJQBqXAvijJf71AmVrWCEvz-kmXtGY9YsfR7lVuOYem29RouotLwJPk9-ZoCLXaFnu2xJytsa7IgGiUHHCI1NWior1lASrGY8VzQ=w955-h462-no?authuser=0)
 
-![enter image description here](https://lh3.googleusercontent.com/N-bm1lGNRrVzx-IIDT75wlSG36QH7-oTG1wMRziRBauNtY3vi-1J5N2rqFqWvobkM6qniIon06CwsyrWdv9F2_m8_68smNE-S0zfXCiEzJDgvlKJdB4J2lyX0ZjU0IESHZI2-Zy5950qbZqRKxXeRViZbOXLkP7zdmOTAAmirJVvWvVpzmXfXzDAVYXR9SsF7r1g0QGYL82cig1cI84fkwaQmCDjIDP44-k5kgCe1a3n10qZTPjbLNSa7Su30oHarBsvgJ1eXdNHqWDjJ9yj50GZFHnnvjQ4vz-aQSU9laIlQp46d5EToK8uaKvWQk6k_9AYkOF6MMFItzcxzpkFuhv45uJFXj7yPYOjvAG0v6IF0cgdRGmCXPtfYhq6UCDxkmKpqvq2yHJZRMihivHrlk0l_PGHfsq8UtWqa1Z7eEDBWpCvkGnpaoGoPDGR5frRQIu9BX34Up1W08puxW4mOQu8wvc1v757wXEl5iILnbWKIghq0nRFUJiJvhAEeprDpgZQr2UOzAnEdYAcsvTglEGti5CE2P-ML-JwHY2fpTUn2gtHbRuS4tUl_ctPUZSIEHH0zjmU-OQyTTwDKxKrUPXwqy_pcH_LsPrF2taxSAsar4Q9CyGF8GrDw4ynTSS0jQXgsF6Lys0-yDO7gpBqVN9amBR0n-b5x5xIx8MUd99weT84rjWoBOr8lN_AyQ4=w955-h462-no?authuser=0)
+![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3dbkn3DkZU_i8oV-PQdOapXqsyBNWliKTqEZ5R3R7OhiQZUmYIiH-Q0Fr14DQYYqJ9GnVdxcgf7VOOvcbT7hpxTNrq6TPYYR6tVI-RoNSVebBcpqlR8E1BLtJo6DTkgZZ5vL1mFPcjPscMpCTwQYMzHFQ=w955-h462-no?authuser=0)
 
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3f6aL0VjXjMO-eHJT9ISCvL61lofh22YRjd2-655WAjxTm1I80951gbW-83XdEFbRtpiZ1m6dSmN2pWGySvq0CoIPgQVUeKRpC5pTbh2DBf8HIGq8wchEZvzOrKnIIJviOtbUyPfNhzJCbUJWhVMGTVfA=w953-h461-no?authuser=0)
 
