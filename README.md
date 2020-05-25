@@ -169,6 +169,6 @@ Las estadísticas para cada nivel se muestran en los siguientes enlaces:
 - [Zonas SITP](https://github.com/maanievesbu/MCPP_mario.nieves/blob/master/Proyecto%20final/R/Output/Zonas%20-%20Descriptives.csv).
 
 ### Agenda a futuro
-- Este proyecto tuvo como propósito evaluar y clasificar los paraderos. Sin embargo, las rutas que recorren la ciudad y paran de ellos puede complementar  este análisis. Por lo tanto, evaluar como puede incidir la implementación (o falta de ella) en ciertos sectores críticos puede conducir análsis de sensibilidad sobre los indicadores de los tipos de paradero expuestos en este ejercicio. 
-- Realizar este ejercicio tomando la estratificación socioeconómica como unidad9 de observación.
-- Tomar unidades de observación más pequeñas que las UPZ (e.g. códigos postales).
+- Este proyecto tuvo como propósito evaluar y clasificar los paraderos. Sin embargo, las rutas que recorren la ciudad y paran en ellos son un elemento esencial. Por lo tanto, evaluar como podría incidir la implementación de más rutas (o falta de ellas) en ciertos sectores críticos puede conducir a la producción de diferentes análisis de sensibilidad sobre los indicadores de los tipos de paradero expuestos en este ejercicio. 
+- Tomar la estratificación socioeconómica como puntos de referencia.
+- Tomar unidades de observación más pequeñas que las UPZ (e.g. códigos postales o barrios).
