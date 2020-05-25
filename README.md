@@ -138,6 +138,8 @@ Según tipo de paradero:
 
 ### Por desagregación geográfica
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3c4gKPmB6Dv5xt1UgzlgO6xZbIZeNhhXT3E7bPQMug7KFc8ZU7embufAALEIqwde6C6AwCZb3JC4yv6kZ_8R_ALuikC1JE_vJpO28RJAB6nyhmETCZrnI8I_49lUHJp01f3t2NRqn4e2ulHh4Ec0Iv7cA=w939-h24-no?authuser=0)
+
 ![Localidades](https://lh3.googleusercontent.com/pw/ACtC-3ewyHNeKm0UcN01NC3Eivb0Tgt1AQ6ybTexJhuP_CB0p0UOoj-o47TVeSsFwg0BzsX9PDCE5PbL9O7795ZcuBi5Rmnj2W4lI-84Hd5hTnBdART_MuLSgwN0YSJ5xTnR7qf4GKcbNDpVp0PVCHhp0fNBmQ=w954-h471-no?authuser=0)
 
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3cZCy7FqRw40Y7x-u-GJ6m4vxmb_1rMlxqzLS4kOqdC6QiohvkX5vpLEKQ-AJSzFZe52pqtNEZATuHkmn63ZEwlKGDoO0i3d4QhRpgcu91mNeYxVMmCQ9QYnxSP8cB3bIkK_G98Uq4XcdsGTui7aSqp_g=w979-h511-no?authuser=0)
