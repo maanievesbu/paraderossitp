@@ -170,5 +170,5 @@ Las estadísticas para cada nivel se muestran en los siguientes enlaces:
 
 ### Agenda a futuro
 - Este proyecto tuvo como propósito evaluar y clasificar los paraderos. Sin embargo, las rutas que recorren la ciudad y paran en ellos son un elemento esencial. Por lo tanto, evaluar como podría incidir la implementación de más rutas (o falta de ellas) en ciertos sectores críticos puede conducir a la producción de diferentes análisis de sensibilidad sobre los indicadores de los tipos de paradero expuestos en este ejercicio. 
-- Tomar la estratificación socioeconómica como puntos de referencia.
+- Incorporar polígonos no regulares como unidad de observación (e.g. estratificación socioeconómica).
 - Tomar unidades de observación más pequeñas que las UPZ (e.g. códigos postales o barrios).
